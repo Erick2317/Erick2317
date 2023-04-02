@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Erick2317
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
 <!---
